@@ -7,6 +7,7 @@ Start by formatting the WD USB hard drive to the **_ext4_** filesystem. Then con
   - To open up a terminal you can try one of two ways
     -- Using Nmap and Screen: use nmap to figure out the ip address of the pi and then use screen/putty to get access through ssh
     -- Use the serial usb cable provided. Th eproper way to plug in to the GPIO port is shown below. 
+    --adfedfdf
     
     
     {ADD PIC Here }
